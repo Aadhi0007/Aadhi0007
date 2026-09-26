@@ -14,7 +14,7 @@ machine learning solutions for practical problems.
 
 - 🎓 B.Tech in Computer Science & Engineering (AI & ML)
 - 🤖 Focused on Machine Learning, Deep Learning & Computer Vision
-- 🐍 Python & Data Science enthusiast
+- 🐍 Focused on Python & Data Science
 - 📊 Currently undergoing Data Science & Power BI training
 - 🔬 Interested in AI research and intelligent systems
 - 💻 Experience in AI/ML and full-stack application development
