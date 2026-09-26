@@ -1,23 +1,21 @@
 # Hi, I'm Adhithyan A 👋
 
-### AI/ML Engineer | Python & Data Science
+### AI/ML Engineer | Python | Data Science
 
-AI/ML graduate with hands-on experience in Machine Learning, Deep Learning,
-Computer Vision, and AI application development.
+B.Tech CSE (AI/ML) student with hands-on experience in Machine Learning, Deep Learning, Data Science, and AI application development.
 
-I enjoy building intelligent applications, working with data, and developing
-machine learning solutions for practical problems.
+I enjoy building intelligent applications, working with data, and developing machine learning solutions for practical problems.
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering (AI & ML)
-- 🤖 Focused on Machine Learning, Deep Learning & Computer Vision
-- 🐍 Focused on Python & Data Science
-- 📊 Currently undergoing Data Science & Power BI training
+- 🤖 Focused on Machine Learning and Deep Learning
+- 🐍 Strong interest in Python and Data Science
+- 📊 Currently learning Data Science and Power BI
 - 🔬 Interested in AI research and intelligent systems
-- 💻 Experience in AI/ML and full-stack application development
+- 💻 Experience in AI/ML and web application development
 
 ---
 
@@ -33,10 +31,10 @@ machine learning solutions for practical problems.
 `NumPy` `Pandas` `Matplotlib` `Seaborn` `Power BI`
 
 ### Web Development
-`Flask` `HTML` `CSS` `JavaScript`
+`Flask` `Django` `HTML` `CSS` `JavaScript`
 
 ### Tools
-`Git` `GitHub` `VS Code`
+`Git` `GitHub` `VS Code` `PyCharm`
 
 ---
 
@@ -44,41 +42,61 @@ machine learning solutions for practical problems.
 
 ### 🧠 SECA — Self-Evolving Cognitive Architecture
 
-An AI-driven adaptive neural architecture using evolutionary strategies
-for dynamic network optimization.
+An adaptive neural architecture project exploring evolutionary strategies and machine learning for neural architecture optimization.
 
 **Highlights:**
-- Dynamic neural architecture optimization
-- Fitness evaluation and optimization
-- Model complexity reduction
-- Image and text classification
-- CIFAR-10 and IMDB datasets
+- Neural architecture optimization
+- Evolutionary strategies
+- Fitness-based optimization
+- Adaptive neural architectures
+- Machine learning experimentation
 
-🔗 **[View SECA Repository](https://github.com/Aadhi0007/SECA)**
+🔗 [**View SECA Repository**](https://github.com/Aadhi0007/SECA)
 
 ---
 
-### 🤖 SympAI
+### 🤖 SympAI — Symptom-Based Disease Prediction
 
-A symptom-based disease prediction system with an interactive interface
-for user-friendly symptom input.
+A machine learning web application that predicts possible diseases from user-provided symptoms.
+
+**Tech Stack:**
+`Python` `TensorFlow` `Keras` `Flask` `Scikit-learn`
 
 **Highlights:**
-- Interactive frontend
+- Symptom-based input
+- Data preprocessing
+- Feature transformation
+- Deep learning model
 - Flask backend
-- TensorFlow & Keras
-- Machine learning model development
-- Dataset preprocessing
-- Feature engineering
-- Model evaluation
+- Web-based interface
 
-🔗 **[View SympAI Repository](https://github.com/Aadhi0007/SympAI)**
+🔗 [**View SympAI Repository**](https://github.com/Aadhi0007/SympAI)
+
+---
+
+### 💊 Medi-Store — Online Medical Store
+
+A Django-based web application developed as an online medical store platform.
+
+**Tech Stack:**
+`Python` `Django` `HTML` `CSS`
+
+**Highlights:**
+- Medicine management
+- Database-driven application
+- Django models and migrations
+- HTML templates
+- Static and media files
+- CRUD-based application design
+
+🔗 [**View Medi-Store Repository**](https://github.com/Aadhi0007/medi-store)
 
 ---
 
 ## 💼 Experience
 
 ### Java Full Stack Intern
+
 **Technologics Global Research**  
 *Feb 2025 – May 2025*
 
@@ -91,13 +109,13 @@ Worked on:
 - Message threading
 - Ticket status handling
 - Backend functionality
-- Debugging and performance improvements
+- Debugging and application improvements
 
 ---
 
 ## 📊 Data Science & Power BI
 
-Currently undergoing practical training in **Data Science & Power BI**.
+Currently undergoing practical training in **Data Science and Power BI**.
 
 Working with:
 
@@ -106,13 +124,14 @@ Working with:
 Areas of practice:
 
 - Data preprocessing
-- Feature engineering
+- Data cleaning
 - Exploratory Data Analysis
+- Data visualization
+- Feature engineering
 - Classification
 - Regression
 - Clustering
 - Model evaluation
-- Data visualization
 - Power BI dashboards
 
 ---
