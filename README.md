@@ -1,4 +1,4 @@
-# Hi, I'm Adhithyan A 👋
+# Hi, I'm Adhithyan 
 
 ### AI/ML Engineer | Python | Data Science
 
@@ -8,18 +8,18 @@ I enjoy building intelligent applications, working with data, and developing mac
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 B.Tech in Computer Science & Engineering (AI & ML)
-- 🤖 Focused on Machine Learning and Deep Learning
-- 🐍 Strong interest in Python and Data Science
-- 📊 Currently learning Data Science and Power BI
-- 🔬 Interested in AI research and intelligent systems
-- 💻 Experience in AI/ML and web application development
+-  B.Tech in Computer Science & Engineering (AI & ML)
+-  Focused on Machine Learning and Deep Learning
+-  Strong interest in Python and Data Science
+-  Currently learning Data Science and Power BI
+-  Interested in AI research and intelligent systems
+-  Experience in AI/ML and web application development
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Programming
 `Python` `SQL` `Java` `JavaScript`
@@ -38,9 +38,9 @@ I enjoy building intelligent applications, working with data, and developing mac
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🧠 SECA — Self-Evolving Cognitive Architecture
+###  SECA — Self-Evolving Cognitive Architecture
 
 An adaptive neural architecture project exploring evolutionary strategies and machine learning for neural architecture optimization.
 
@@ -55,7 +55,7 @@ An adaptive neural architecture project exploring evolutionary strategies and ma
 
 ---
 
-### 🤖 SympAI — Symptom-Based Disease Prediction
+###  SympAI — Symptom-Based Disease Prediction
 
 A machine learning web application that predicts possible diseases from user-provided symptoms.
 
@@ -74,7 +74,7 @@ A machine learning web application that predicts possible diseases from user-pro
 
 ---
 
-### 💊 Medi-Store — Online Medical Store
+###  Medi-Store — Online Medical Store
 
 A Django-based web application developed as an online medical store platform.
 
@@ -93,7 +93,7 @@ A Django-based web application developed as an online medical store platform.
 
 ---
 
-## 💼 Experience
+##  Experience
 
 ### Java Full Stack Intern
 
@@ -113,7 +113,7 @@ Worked on:
 
 ---
 
-## 📊 Data Science & Power BI
+##  Data Science & Power BI
 
 Currently undergoing practical training in **Data Science and Power BI**.
 
@@ -136,7 +136,7 @@ Areas of practice:
 
 ---
 
-## 🎯 Areas of Interest
+##  Areas of Interest
 
 - Artificial Intelligence
 - Machine Learning
